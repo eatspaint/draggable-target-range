@@ -1,0 +1,31 @@
+.target {
+  fill: #ffd318;
+}
+
+.range {
+  fill: #ffd31833;
+}
+
+.line {
+  stroke: #ddd;
+}
+
+.background {
+  fill: transparent;
+}
+
+.canvas {
+  border: 2px solid #ffd318;
+  border-radius: 4px;
+}
+
+.valueDisplay {
+  fill: #ffd318;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.helper {
+  fill: #777;
+  font-weight: 400;
+}
